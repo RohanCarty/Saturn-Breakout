@@ -1,1 +1,8 @@
 /cd/A.BIN
+/build/*
+/cd/*
+compile_commands.json
+*.cue
+*.iso
+
+*.log
