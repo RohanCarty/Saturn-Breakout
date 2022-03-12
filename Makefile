@@ -6,6 +6,7 @@ include $(YAUL_INSTALL_ROOT)/share/pre.common.mk
 
 SH_PROGRAM:= Saturn-Breakout
 SH_SRCS:= \
+	drawing.c \
 	main.c
 ROMDISK_SYMBOLS=
 ROMDISK_DIRS=
